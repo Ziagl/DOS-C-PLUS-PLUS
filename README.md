@@ -12,3 +12,7 @@ Simple Hello World program compiled and testet on MS DOS 6.22 and Borland Turbo 
 ## EXAMPLE2.CPP
 
 Shows how to get keycodes from keyboard to detect which key was pressed.
+
+## EXAMPLE3.CPP
+
+Shows how to set VGA graphics mode and how to draw pixel by manipulating VGA video memory
