@@ -16,3 +16,7 @@ Shows how to get keycodes from keyboard to detect which key was pressed.
 ## EXAMPLE3.CPP
 
 Shows how to set VGA graphics mode and how to draw pixel by manipulating VGA video memory
+
+## EXAMPLE4.CPP
+
+Extends example3.cpp with a new color palette to draw a nice background
