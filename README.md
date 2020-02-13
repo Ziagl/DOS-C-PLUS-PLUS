@@ -20,3 +20,7 @@ Shows how to set VGA graphics mode and how to draw pixel by manipulating VGA vid
 ## EXAMPLE4.CPP
 
 Extends example3.cpp with a new color palette to draw a nice background
+
+## EXAMPLE5.CPP
+
+Extends example4.cpp with a square that is drawn before background. This square is moveable with cursor keys.
