@@ -24,3 +24,7 @@ Extends example3.cpp with a new color palette to draw a nice background
 ## EXAMPLE5.CPP
 
 Extends example4.cpp with a square that is drawn before background. This square is moveable with cursor keys.
+
+## EXAMPLE6.CPP
+
+Extends example5.cpp with effects (fade in and fade out)
