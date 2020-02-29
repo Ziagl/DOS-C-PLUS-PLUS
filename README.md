@@ -28,3 +28,7 @@ Extends example4.cpp with a square that is drawn before background. This square 
 ## EXAMPLE6.CPP
 
 Extends example5.cpp with effects (fade in and fade out)
+
+## EXAMPLE7.CPP
+
+Extends example6.cpp with mouse input and mouse movement for the square
